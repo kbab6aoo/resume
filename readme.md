@@ -1,3 +1,10 @@
+th:empty {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 # Yomi Ogunyinka
 ##### Mobile: +44 (0) 7533-318-069
 ##### Email: Yomi.Ogunyinka@JaghoConsultants.co.uk
