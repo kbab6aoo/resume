@@ -19,7 +19,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Networking
 	-	TCP/IP, VLAN, LAN, WAN, DNS, BIND9, SSH, PUTTY, CYGWIN
 -	Configuration Management
-	-	Ansible, Chef, Puppet, Salt
+	-	Ansible, Chef, Puppet, Terraform, Salt
 -	Open Source
 	-	MySQL, MongoDB, PostgreSQL, Cassandra, RDS, JasperSoft
 -	Security
