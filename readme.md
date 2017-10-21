@@ -96,7 +96,13 @@ The role is to work collaboratively with the software engineering team to deploy
 	-	Nginx, Tomcat, IIS
 -	Restrict Acess to resources
 	-	User creation and administration
-	
+-	Source Control
+	-	GIT, GitLab, GitHub
+-	Monitoring Servers and processes for failures and performance bottlenecks
+	-	Splunk, ELK, Sensu, Grafana, LogStash, Kibana
+-	Database
+	-	Oracle, MongoDB, Cassandra, SQL and MySQL
+-	Resolve issues in clients test and production environments
 
 
 
