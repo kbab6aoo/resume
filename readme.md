@@ -1,4 +1,4 @@
-# Yomi Ogunyinka
+# Yomi Ogunyinka (BA Business Studies)
 ##### Mobile: +44 (0) 7533-318-069
 ##### Email: Yomi.Ogunyinka@JaghoConsultants.co.uk
 ##### Website: https://jagho.info GitHub: https://github.com/kbab6aoo/
@@ -10,12 +10,24 @@ A results-orientated DevOps Engineer with several years of experience in the del
 ##### KEY SKILLS
 | CLOUD | STACKS | WEB | CONFIGURATION TOOLS | OPERATING SYTEMS
 |:-:|:-:|:-:|:-:|:-:|
-AWS | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
+AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
 
 ##### TECHNICAL SKILLS
 -	Microsoft
 	-	Server 2003 - 2012, SharePoint, Exchange, Office 365, Excel, VBA
 -	Operating Systems
-	-	[Ubuntu, Centos, RHEL, Linux] - AWS, Asteriks, Debian, Fedora, Vagrant, OpenStack
+	-	Ubuntu, Centos, RHEL, Linux, Asteriks, Debian, Fedora
 -	Amazon Web Services (AWS)
 	-	EC2, ECS, S3, Auto Scaling, Elastic Load Balancing, Internet Access Management, Security Groups, Virtual Private Networking, Route 53
+-	Networking
+	-	TCP/IP, VLAN, LAN, WAN, DNS, BIND9, SSH, PUTTY, CYGWIN
+-	Open Source
+	-	MySQL, MongoDB, PostgreSQL, Cassandra, RDS, JasperSoft
+-	Security
+	-	OpenSSL - Diffie-Helman, RSA, DH, DSA, X.509, UFW
+-	Backup
+	-	Bacula, rsync, WinSCP, Snapshots
+-	Monitoring
+	-	Nagios, Splunk, PRTG, DynaTrace
+-	Centralized Logging
+	-	Elastic Search, LogStash, Kibana, Apache Kafka
