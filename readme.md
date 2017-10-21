@@ -13,7 +13,7 @@ I have spent the last 20 years working in IT with the last 5 years focussing on 
 |:-:|:-:|:-:|:-:|:-:|
 AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
 
-##### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 -	Microsoft
 	-	Server 2003 - 2012, SharePoint, Exchange, Office 365, Excel, VBA
 -	Operating Systems
