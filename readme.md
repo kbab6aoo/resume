@@ -1,6 +1,6 @@
 # Yomi Ogunyinka (BA Business Studies) 
 ### DevOps Engineer / Cloud Engineer / Microsoft Windows Systems Administrator
-##### Website: https://jagho.info
+##### Website: https://jagho.info 	Email: Yomi.O@JaghoConsultants.co.uk
 
 A results-orientated DevOps Engineer with several years of experience in the delivery of scalable "cloud" enterprise projects and high performance solutions that are focussed around "SaaS", "PaaS", and "IaaS", I am customer focused with a proven track record in meeting Service Level Agreements (SLA's) and Key Performance Indicators (KPI's)
 
@@ -32,7 +32,3 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	Elastic Search, LogStash, Kibana, Apache Kafka
 -	Data Optimization
 	-	GlusterFS, Clustering, Synchronization, HA Proxy Layer 4 & 7
-
-
-##### Mobile: +44 (0) 7533-318-069
-##### Email: Yomi.Ogunyinka@JaghoConsultants.co.uk
