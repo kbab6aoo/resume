@@ -9,8 +9,8 @@ A results-orientated DevOps Engineer with several years of experience in the del
 
 ##### KEY SKILLS
 
-|||
-|-|-|
+
+|-|-|-|-|
 AWS | LAMP / LEMP / STACK | APACHE / NGINX / TOMCAT / IIS | ANSIBLE
 ----|---------------------|-------------------------------|--------
 WINDOWS | ACTIVE DIRECTORY | POWERSHELL / BASH | DNS
