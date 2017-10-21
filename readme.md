@@ -4,6 +4,10 @@
 
 A results-orientated DevOps Engineer with several years of experience in the delivery of scalable "cloud" enterprise projects and high performance solutions that are focussed around "SaaS", "PaaS", and "IaaS", I am customer focused with a proven track record in meeting Service Level Agreements (SLA's) and Key Performance Indicators (KPI's)
 
+I am passionate about technology and Cloud Services. I enjoy a hands-on approach to technology. My background has allowed me to build a strong technical skill-set allowing me to devise creative solutions for various clients. I have a proven ability to deliver to demanding time scales, as well as working closely with clients to realize their aspirations.
+
+I have spent the last 20 years working in IT with the last 5 years focussing on technologies I feel very passionate about including Cloud and Agile Delivery. Along the way, I have gained experience in many other areas, including virtualization and Open Source, networking and scalable architectures.
+
 ##### KEY SKILLS
 | CLOUD | STACKS | WEB | CONFIGURATION TOOLS | OPERATING SYTEMS
 |:-:|:-:|:-:|:-:|:-:|
@@ -22,6 +26,15 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	Ansible, Chef, Puppet, Terraform, Salt
 -	Open Source
 	-	MySQL, MongoDB, PostgreSQL, Cassandra, RDS, Postfix, JasperSoft
+-	Automation
+	-	Jenkins
+		-	Build Jobs, Deploy Jobs, Automate Jobs
+		-	Build Pipe lines, Deploy Pipe lines
+		-	Integrate Jenkins with GitHub
+	-	Continous Intergration
+		-	JetBrains, TeamCity, Maven
+-	Vesion Control
+	-	BitBucket, Git, GitHub, SourceTree, SVN, Mercurial, Chocolatey
 -	Security
 	-	OpenSSL - Diffie-Helman, RSA, DH, DSA, X.509, UFW
 -	Backup
@@ -43,15 +56,6 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	PowerShell, VBScript, JavaScript, HTML, CSS, jQuery, JSON, PYTHON, YAML, BASH
 -	Deployment
 	-	Octopus deploy, TFS, AWS CodeDeploy, Blue/Green Deploy
--	Automation
-	-	Jenkins
-		-	Build Jobs, Deploy Jobs, Automate Jobs
-		-	Build Pipe lines, Deploy Pipe lines
-		-	Integrate Jenkins with GitHub
-	-	Continous Intergration
-		-	JetBrains, TeamCity, Maven
--	Vesion Control
-	-	BitBucket, Git, GitHub, SourceTree, SVN, Mercurial, Chocolatey
 -	Development Software
 	-	Visual Studio, Eclipse
 -	Collaboration Tools
@@ -59,13 +63,17 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	JIRA
 	-	WebEx
 	-	Slack
+
 ##### Core Competencies
 -	Experience with continous integration, automated deployment and testing
 -	Knowledge of factors influencing performance and the ability to to tune systems to achieve the same
 -	Experience with Agile Methodolgies and developing road maps, backlogs and measurable succes criteria
 -	Experience supporting large scale technology migrations for company mergers, acquisitions and separations
 -	Experience of application deployment and data migration to the cloud
-
+-	Experience in provisioning secure Content Management Systems and managing complex cloud applications
+-	Experience of deploying quality web application releases to the cloud
+-	Experience in implmenting new business solutions and passionate about delivering the best solutions to clients
+-	Experience of designing and building end-to-end infrastructure solutions to the cloud with Amazon Web Services (AWS)
 
 
 
