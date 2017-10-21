@@ -14,9 +14,9 @@ I have spent the last 20 years working in IT with the last 5 years focussing on 
 AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
 
 ##### TECHNICAL SKILLS
--	`Microsoft`
+-	Microsoft
 	-	Server 2003 - 2012, SharePoint, Exchange, Office 365, Excel, VBA
--	`Operating Systems`
+-	Operating Systems
 	-	Ubuntu, Centos, RHEL, Linux, Asteriks, Debian, Fedora
 -	Amazon Web Services (AWS)
 	-	EC2, ECS, S3, Auto Scaling, Elastic Load Balancing, Internet Access Management, Security Groups, Virtual Private Networking, Route 53
@@ -75,8 +75,22 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Experience in implmenting new business solutions and passionate about delivering the best solutions to clients
 -	Experience of designing and building end-to-end infrastructure solutions to the cloud with Amazon Web Services (AWS)
 
-
-
+##### PROFESSIONAL EXPERIENCE
+###### DevOps Engineer			Cisco Systems,					Contract	(Aug 2017 - Oct 2017)
+Video Cloud Services (VCS) customer operations function is responsible for ensuring the delivery of high quality services to customers and achieving high customer satisfaction
+###### Overview
+The role is to work collaboratively with the software engineering team to deploy and operate Video Systems in the Cloud, and help automate and streamline operations and processes.
+###### Business Delivery
+-	Servce as Conflunence technical resource and SME
+	-	Migrate Confluence wiki systems
+	-	Maintain and improve runbooks and operational processes
+	-	Establish and promote best practices for the usage of Confluence
+-	Cloud Technologies
+	-	AWS, OPENSTACK
+-	Provision Virtual Machines and Network Configurations
+	-	Centos 7, REDHAT & Windows
+	-	WAN, LAN, VLAN, TCP/IP, HTTP(S)
+	
 
 
 
