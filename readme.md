@@ -1,10 +1,3 @@
-th:empty {
-  font-size: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-
 # Yomi Ogunyinka
 ##### Mobile: +44 (0) 7533-318-069
 ##### Email: Yomi.Ogunyinka@JaghoConsultants.co.uk
@@ -16,7 +9,7 @@ A results-orientated DevOps Engineer with several years of experience in the del
 
 ##### KEY SKILLS
 
-| | | | |
+|       |
 |-|-|-|-|
 AWS | LAMP / LEMP / STACK | APACHE / NGINX / TOMCAT / IIS | ANSIBLE
 WINDOWS | ACTIVE DIRECTORY | POWERSHELL / BASH | DNS
