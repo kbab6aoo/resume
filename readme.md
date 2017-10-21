@@ -21,7 +21,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Configuration Management
 	-	Ansible, Chef, Puppet, Terraform, Salt
 -	Open Source
-	-	MySQL, MongoDB, PostgreSQL, Cassandra, RDS, JasperSoft
+	-	MySQL, MongoDB, PostgreSQL, Cassandra, RDS, Postfix, JasperSoft
 -	Security
 	-	OpenSSL - Diffie-Helman, RSA, DH, DSA, X.509, UFW
 -	Backup
@@ -32,3 +32,53 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	Elastic Search, LogStash, Kibana, Apache Kafka
 -	Data Optimization
 	-	GlusterFS, Clustering, Synchronization, HA Proxy Layer 4 & 7
+-	Web Servers
+	-	Nginx, Apache, PHP, IIS, TOMCAT
+		-	ColdFusion, JBoss, ASP.NET
+-	Content Management Systems
+	-	Drupal, WordPress
+-	Containerisation
+	-	Docker - Docker Compose
+-	Scripting
+	-	PowerShell, VBScript, JavaScript, HTML, CSS, jQuery, JSON, PYTHON, YAML, BASH
+-	Deployment
+	-	Octopus deploy, TFS, AWS CodeDeploy, Blue/Green Deploy
+-	Automation
+	-	Jenkins
+		-	Build Jobs, Deploy Jobs, Automate Jobs
+		-	Build Pipe lines, Deploy Pipe lines
+		-	Integrate Jenkins with GitHub
+	-	Continous Intergration
+		-	JetBrains, TeamCity, Maven
+-	Vesion Control
+	-	BitBucket, Git, GitHub, SourceTree, SVN, Mercurial, Chocolatey
+-	Development Software
+	-	Visual Studio, Eclipse
+-	Collaboration Tools
+	-	Confluence
+	-	JIRA
+	-	WebEx
+	-	Slack
+##### Core Competencies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
