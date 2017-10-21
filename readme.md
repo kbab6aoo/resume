@@ -104,11 +104,11 @@ The role was to work collaboratively with the software engineering team to deplo
 	-	Oracle, MongoDB, Cassandra, SQL and MySQL
 -	Resolve issues in clients test and production environments
 
-##### DevOps Engineer 		University of Edinburgh,		Contractor
+###### DevOps Engineer 		University of Edinburgh,		Contractor
 The University of Edinburgh Information Services Group is a fully integrated support service, offering physical and digital services accross library, IT learning technology library, IT, learning technoly student study and teaching room technologies
-##### Overview
+###### Overview
 As part of the Agile Information Services team the role was to provide support to enable the team around the platform, develop prototypes and proof of concepts specific to the University's products and services for their customers.
-##### Business Delivery:
+###### Business Delivery:
 -	Collaborate with the product owner to gather requirements, design, and solve complex problems
 -	Participate in design meetings and analyse user needs to determine technical requirements
 -	Provision virtual machines and network configuration
