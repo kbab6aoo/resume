@@ -79,8 +79,8 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 ###### DevOps Engineer			Cisco Systems,					Contractor
 Video Cloud Services (VCS) customer operations function is responsible for ensuring the delivery of high quality services to customers and achieving high customer satisfaction
 ###### Overview
-The role is to work collaboratively with the software engineering team to deploy and operate Video Systems in the Cloud, and help automate and streamline operations and processes.
-###### Business Delivery
+The role was to work collaboratively with the software engineering team to deploy and operate Video Systems in the Cloud, and help automate and streamline operations and processes.
+###### Business Delivery:
 -	Servce as Conflunence technical resource and SME
 	-	Migrate Confluence wiki systems
 	-	Maintain and improve runbooks and operational processes
@@ -104,7 +104,34 @@ The role is to work collaboratively with the software engineering team to deploy
 	-	Oracle, MongoDB, Cassandra, SQL and MySQL
 -	Resolve issues in clients test and production environments
 
-
+##### DevOps Engineer 		University of Edinburgh,		Contractor
+The University of Edinburgh Information Services Group is a fully integrated support service, offering physical and digital services accross library, IT learning technology library, IT, learning technoly student study and teaching room technologies
+##### Overview
+As part of the Agile Information Services team the role was to provide support to enable the team around the platform, develop prototypes and proof of concepts specific to the University's products and services for their customers.
+##### Business Delivery:
+-	Collaborate with the product owner to gather requirements, design, and solve complex problems
+-	Participate in design meetings and analyse user needs to determine technical requirements
+-	Provision virtual machines and network configuration
+	-	Centos 7, REDHAT, Ubuntu
+	-	TCP/IP, DNS, VLAN, SSH, SSL
+-	Provision and Configure required software onto provsioned
+	-	Web Servers - Apache Kafka
+	-	Database Servers - PostgreSQL
+-	Evaluate, improve, and maintain information security
+	-	Firewalls, Routing Tables, Apply Security Patches and updates
+-	Monitor Servers and processes for failures and performance bottlenecks
+	-	Nagios
+-	Provide DevOps Work
+	-	Provide script for automation
+	-	Create Cron Jobs
+-	Configuration Management
+	-	Puppet
+-	Source Control
+	-	Git, GitHub
+-	Collaboration Tools
+	-	Slack
+	-	Confluence
+	-	JIRA
 
 
 
