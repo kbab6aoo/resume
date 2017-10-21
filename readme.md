@@ -76,7 +76,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Experience of designing and building end-to-end infrastructure solutions to the cloud with Amazon Web Services (AWS)
 
 ##### PROFESSIONAL EXPERIENCE
-###### DevOps Engineer			Cisco Systems,					Contract	(Aug 2017 - Oct 2017)
+###### DevOps Engineer			Cisco Systems,					Contractor
 Video Cloud Services (VCS) customer operations function is responsible for ensuring the delivery of high quality services to customers and achieving high customer satisfaction
 ###### Overview
 The role is to work collaboratively with the software engineering team to deploy and operate Video Systems in the Cloud, and help automate and streamline operations and processes.
@@ -89,8 +89,15 @@ The role is to work collaboratively with the software engineering team to deploy
 	-	AWS, OPENSTACK
 -	Provision Virtual Machines and Network Configurations
 	-	Centos 7, REDHAT & Windows
-	-	WAN, LAN, VLAN, TCP/IP, HTTP(S)
+	-	WAN, LAN, VLAN, TCP/IP, HTTP(S), DNS, SSH, SSL
+-	Automate and Streamline Operations and Processes
+	-	Ansible, Salt
+-	Provision and Configure Web Servers
+	-	Nginx, Tomcat, IIS
+-	Restrict Acess to resources
+	-	User creation and administration
 	
+
 
 
 
