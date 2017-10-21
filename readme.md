@@ -14,3 +14,9 @@ AWS | LAMP / LEMP / STACK | APACHE / NGINX / TOMCAT / IIS | ANSIBLE
 WINDOWS | ACTIVE DIRECTORY | POWERSHELL / BASH | DNS
 
 ##### TECHNICAL SKILLS
+
+MICROSOFT | Server 2003 - 2012, SharePoint, Exchange, Office 365, Excel, VBA|
+----------|------------------------------------------------------------------------------------------|
+OPERATING SYSTEMS | Ubuntu, Centos, RHEL, Linux] - AWS, Asteriks, Debian, Fedora, Vagrant, OpenStack |
+----------|------------------------------------------------------------------------------------------|
+
