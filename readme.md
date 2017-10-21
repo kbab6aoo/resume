@@ -14,9 +14,9 @@ I have spent the last 20 years working in IT with the last 5 years focussing on 
 AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
 
 ##### TECHNICAL SKILLS
--	Microsoft
+-	`Microsoft`
 	-	Server 2003 - 2012, SharePoint, Exchange, Office 365, Excel, VBA
--	Operating Systems
+-	`Operating Systems`
 	-	Ubuntu, Centos, RHEL, Linux, Asteriks, Debian, Fedora
 -	Amazon Web Services (AWS)
 	-	EC2, ECS, S3, Auto Scaling, Elastic Load Balancing, Internet Access Management, Security Groups, Virtual Private Networking, Route 53
