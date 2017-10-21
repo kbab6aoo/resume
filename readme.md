@@ -64,7 +64,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	WebEx
 	-	Slack
 
-##### Core Competencies
+### Core Competencies
 -	Experience with continous integration, automated deployment and testing
 -	Knowledge of factors influencing performance and the ability to to tune systems to achieve the same
 -	Experience with Agile Methodolgies and developing road maps, backlogs and measurable succes criteria
