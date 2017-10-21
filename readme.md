@@ -9,8 +9,15 @@ A results-orientated DevOps Engineer with several years of experience in the del
 
 ##### KEY SKILLS
 
-| CLOUD | STACKS | WEB | CONFIGURATION MANAGEMENT |
-|:-:|:-:|:-:|:-:|
+| CLOUD | STACKS | WEB | CONFIGURATION TOOLS | Operating Systems
+|:-:|:-:|:-:|:-:|:-:|
+AWS | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
+
+
+
+
+
+
 AWS | LAMP / LEMP / STACK | APACHE / NGINX / TOMCAT / IIS | ANSIBLE
 WINDOWS | ACTIVE DIRECTORY | POWERSHELL / BASH | DNS
 
