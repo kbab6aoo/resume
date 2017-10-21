@@ -21,6 +21,8 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	EC2, ECS, S3, Auto Scaling, Elastic Load Balancing, Internet Access Management, Security Groups, Virtual Private Networking, Route 53
 -	Networking
 	-	TCP/IP, VLAN, LAN, WAN, DNS, BIND9, SSH, PUTTY, CYGWIN
+-	Configuration Management
+	-	Ansible, Chef, Puppet, Salt
 -	Open Source
 	-	MySQL, MongoDB, PostgreSQL, Cassandra, RDS, JasperSoft
 -	Security
@@ -31,3 +33,5 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	Nagios, Splunk, PRTG, DynaTrace
 -	Centralized Logging
 	-	Elastic Search, LogStash, Kibana, Apache Kafka
+-	Data Optimization
+	-	GlusterFS, Clustering, Synchronization, HA Proxy Layer 4 & 7
