@@ -8,12 +8,12 @@ I am passionate about technology and Cloud Services. I enjoy a hands-on approach
 
 I have spent the last 20 years working in IT with the last 5 years focussing on technologies I feel very passionate about including Cloud and Agile Delivery. Along the way, I have gained experience in many other areas, including virtualization and Open Source, networking and scalable architectures.
 
-##### KEY SKILLS
+## KEY SKILLS
 | CLOUD | STACKS | WEB | CONFIGURATION TOOLS | OPERATING SYTEMS
 |:-:|:-:|:-:|:-:|:-:|
 AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
 
-## TECHNICAL SKILLS
+##### TECHNICAL SKILLS
 -	Microsoft
 	-	Server 2003 - 2012, SharePoint, Exchange, Office 365, Excel, VBA
 -	Operating Systems
