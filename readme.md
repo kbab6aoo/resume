@@ -104,6 +104,8 @@ The role was to work collaboratively with the software engineering team to deplo
 	-	Oracle, MongoDB, Cassandra, SQL and MySQL
 -	Monitoring Servers and processes for failures and performance bottlenecks
 	-	Splunk, ELK, Sensu, Grafana, LogStash, Kibana
+-	Scripting
+	-	Bash, VBScript, PowerShell
 -	Source Control
 	-	GIT, GitLab, GitHub
 -	Collaboration Tools
@@ -136,6 +138,8 @@ As part of the Agile Information Services team the role was to provide support t
 	-	Nagios
 -	Configuration Management
 	-	Puppet
+-	Scripting
+	-	Bash, Python, Ruby
 -	Source Control
 	-	Git, GitHub
 -	Collaboration Tools
@@ -168,6 +172,8 @@ The purpose of the role was to provide DevOps related technology services to the
 	-	Cassandra, Oracle
 -	Containerisation
 	-	Docker
+-	Scripting
+	-	Bash, Python, YAML, JSON
 -	Continous Deployment
 	-	Jenkins
 -	Source Control
@@ -189,10 +195,71 @@ The purpose of the role was to provide DevOps related technology services to the
 
 ###### DevOps Consultant 		Santander,		Contractor
 Santander UK plc is wholly by the Spanish Sanatander Group.  Santander UK is one of the UK's leading personal financial services companies and one of the largest providers of mortgages and savings in the UK
+###### Overview
+The purpose of the role was to provide consultancy expertise and accelerate automation with Anisble and Terraform
+###### Business Delivery:
+-	Work with Project Managers, Solutions Architects, responsible for ensuring that technical deliverables are consistent with the original solution specified by the technology office
+-	Support and work alongside development teams and DBA's to autoamte tasks
+-	Work with various teams in gathering business requirements for application migration needs
+-	Architect, deploy and build terrafrom scripts for version controlled infrastructure changes
+-	Prepare application migration plans including migration risk, milestones, quality and business sign-off details
+-	Manage assigned risks and monitor potential impacts of the application migration plans
+-	Develop best practice, processes, and standards for effectively carrying out application upgrades and migration
+-	Test, debug and troubleshoot platform and application level problems
 
+###### Technology Stack:
+-	Cloud Technologies
+	-	AWS, Azure, OpenStack
+-	Provision Virtual Machines and Network Configurations
+	-	Windows, REDHAT, Linux
+-	Automate and Streamline Operations
+	-	Ansible
+	-	Terraform
+	-	PowerShell - DSC
+-	Database Servers
+	-	SQL
+-	Scripting
+	-	Bash, Python, YAML, VBScript, PowerShell
+-	Source Control
+	-	GIT, GitLab
+-	Collaboration Tools
+	-	JIRA
+	-	Confluence
 
+###### DevOps Consultant 		DYSON,		Contractor
+Dyson designs and manufacture vacuum cleaners, hand dryers, bladeless fans, and heaters
+###### Overview
+The purpose of the role was to provide technical expertise and operational support to Dysons Web, Digital and IoT Infrastructure
+###### Business Delivery:
+-	Build, support and mainatain multiple development and production environments hosted on internal and public cloud solutions for full software development life cycyle
+-	Architect, deploy and mange terraform scripts for version controlled Infrastucture changes
+-	Provide ad-hoc Infrastructure services for prototyping and other initiatives
 
-
+###### Technology Stack:
+-	Cloud Technologies
+	-	Amazon Web Service - AWS,
+-	Provision Virtual Machines and Network Configurations
+	-	Centos 7, Linux, Ubuntu & Windows
+	-	WAN, LAN, VLAN, TCP/IP, HTTP(S), DNS, SSH, SSL
+-	Automate and Streamline Operations and Processes
+	-	Ansible, Chef
+-	Provision and Configure Web Servers
+	-	IIS
+-	Database Servers
+	-	SQL
+-	Continous Deployment
+	-	Octopus Deploy
+-	Monitoring Servers and processes for failures and performance bottlenecks
+	-	Splunk
+-	Scripting
+	-	Bash, VBScript, PowerShell, YAML
+-	Source Control
+	-	GIT, BitBucket, SourceTree
+-	Collaboration Tools
+	-	Trello
+	-	JIRA
+	-	Confluence
+	-	WebEx
 
 
 
