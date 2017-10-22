@@ -86,6 +86,11 @@ The role was to work collaboratively with the software engineering team to deplo
 	-	Migrate Confluence wiki systems
 	-	Maintain and improve runbooks and operational processes
 	-	Establish and promote best practices for the usage of Confluence
+-	Resolve issues in clients test and production environments
+-	Restrict Acess to resources
+	-	User creation and administration
+
+###### Technology Stack:
 -	Cloud Technologies
 	-	AWS, OPENSTACK
 -	Provision Virtual Machines and Network Configurations
@@ -95,15 +100,17 @@ The role was to work collaboratively with the software engineering team to deplo
 	-	Ansible, Salt
 -	Provision and Configure Web Servers
 	-	Nginx, Tomcat, IIS
--	Restrict Acess to resources
-	-	User creation and administration
--	Source Control
-	-	GIT, GitLab, GitHub
--	Monitoring Servers and processes for failures and performance bottlenecks
-	-	Splunk, ELK, Sensu, Grafana, LogStash, Kibana
 -	Database
 	-	Oracle, MongoDB, Cassandra, SQL and MySQL
--	Resolve issues in clients test and production environments
+-	Monitoring Servers and processes for failures and performance bottlenecks
+	-	Splunk, ELK, Sensu, Grafana, LogStash, Kibana
+-	Source Control
+	-	GIT, GitLab, GitHub
+-	Collaboration Tools
+	-	Slack
+	-	JIRA
+	-	Confluence
+	-	WebEx
 
 ###### DevOps Engineer 		University of Edinburgh,		Contractor
 The University of Edinburgh Information Services Group is a fully integrated support service, offering physical and digital services accross library, IT learning technology library, IT, learning technoly student study and teaching room technologies
@@ -118,7 +125,7 @@ As part of the Agile Information Services team the role was to provide support t
 	-	Provide script for automation
 	-	Create Cron Jobs
 
-###### Technology Stack
+###### Technology Stack:
 -	Provision virtual machines and network configuration
 	-	Centos 7, REDHAT, Ubuntu
 	-	TCP/IP, DNS, VLAN, SSH, SSL
@@ -140,7 +147,7 @@ As part of the Agile Information Services team the role was to provide support t
 A P Mollers - Maersk is an integrated transport and logistics company with multiple brands and is a global leader in container shipping and ports
 ###### Overview
 The purpose of the role was to provide DevOps related technology services to the Maersk Group IT Services
-###### Business Delivery
+###### Business Delivery:
 -	Automate processes to ensure the environments are consistent, scalable and fast deployment can be acheived
 -	Deliver document release notes, user guides, deployment plans
 -	Assist developers and stake holders to solve incidents related to architecture
@@ -150,7 +157,7 @@ The purpose of the role was to provide DevOps related technology services to the
 -	Perform "root cause" analysis of incidents, and provide immediate workaround for critcal problems if possible
 -	Act as an escaltion point for support issues/questions from stake holders
 
-
+##### Technology Stack
 
 
 
