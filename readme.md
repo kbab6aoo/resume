@@ -100,7 +100,7 @@ The role was to work collaboratively with the software engineering team to deplo
 	-	Ansible, Salt
 -	Provision and Configure Web Servers
 	-	Nginx, Tomcat, IIS
--	Database
+-	Database Servers
 	-	Oracle, MongoDB, Cassandra, SQL and MySQL
 -	Monitoring Servers and processes for failures and performance bottlenecks
 	-	Splunk, ELK, Sensu, Grafana, LogStash, Kibana
@@ -157,8 +157,35 @@ The purpose of the role was to provide DevOps related technology services to the
 -	Perform "root cause" analysis of incidents, and provide immediate workaround for critcal problems if possible
 -	Act as an escaltion point for support issues/questions from stake holders
 
-##### Technology Stack
-
+##### Technology Stack:
+-	Cloud
+	-	IBM Bluemix
+-	Provision Virtual Machines and Network Configurations
+	-	SELinux
+-	Configuration Management
+	-	Ansible
+-	Database Servers
+	-	Cassandra, Oracle
+-	Containerisation
+	-	Docker
+-	Continous Deployment
+	-	Jenkins
+-	Source Control
+	-	GIT
+-	Collaboration
+	-	Conflunence
+	-	JIRA
+	-	Slack
+	-	WebEx
+	-	Skype
+-	Application Performance Management
+	-	APM, NetCool Omnibus, IBM Tivoli Common Reporting - TCR, IBM/Softlayer, Dynatrace
+-	Traffic
+	-	Akamai Intelligent Platform (GTM)
+-	API Gateway
+	-	Akana
+-	Web Analytics
+	-	Google Analytics
 
 
 
