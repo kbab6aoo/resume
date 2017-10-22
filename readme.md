@@ -157,7 +157,7 @@ The purpose of the role was to provide DevOps related technology services to the
 -	Perform "root cause" analysis of incidents, and provide immediate workaround for critcal problems if possible
 -	Act as an escaltion point for support issues/questions from stake holders
 
-##### Technology Stack:
+###### Technology Stack:
 -	Cloud
 	-	IBM Bluemix
 -	Provision Virtual Machines and Network Configurations
