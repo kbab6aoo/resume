@@ -53,8 +53,15 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	Drupal, WordPress
 -	Containerisation
 	-	Docker - Docker Compose
+-	Development
+	-	Visual Studio
+	-	Eclipse
+	-	Maven
+-	Programming Languages
+	-	JAVA
+	-	.Net
 -	Scripting
-	-	PowerShell, VBScript, JavaScript, HTML, CSS, jQuery, JSON, PYTHON, YAML, BASH
+	-	PowerShell, VBScript, JavaScript,HTML, CSS, jQuery, JSON, PYTHON, YAML, BASH
 -	Deployment
 	-	Octopus deploy, TFS, AWS CodeDeploy, Blue/Green Deploy
 -	Development Software
@@ -62,7 +69,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Collaboration Tools
 	-	Confluence
 	-	JIRA
-	-	WebEx
+	-	WebEx, Skype, Jabber
 	-	Slack
 
 ### Core Competencies
