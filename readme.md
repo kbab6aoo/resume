@@ -112,19 +112,21 @@ As part of the Agile Information Services team the role was to provide support t
 ###### Business Delivery:
 -	Collaborate with the product owner to gather requirements, design, and solve complex problems
 -	Participate in design meetings and analyse user needs to determine technical requirements
+-	Evaluate, improve, and maintain information security
+	-	Firewalls, Routing Tables, Apply Security Patches and updates
+-	Provide DevOps Work
+	-	Provide script for automation
+	-	Create Cron Jobs
+
+###### Technology Stack
 -	Provision virtual machines and network configuration
 	-	Centos 7, REDHAT, Ubuntu
 	-	TCP/IP, DNS, VLAN, SSH, SSL
 -	Provision and Configure required software onto provsioned
 	-	Web Servers - Apache Kafka
 	-	Database Servers - PostgreSQL
--	Evaluate, improve, and maintain information security
-	-	Firewalls, Routing Tables, Apply Security Patches and updates
 -	Monitor Servers and processes for failures and performance bottlenecks
 	-	Nagios
--	Provide DevOps Work
-	-	Provide script for automation
-	-	Create Cron Jobs
 -	Configuration Management
 	-	Puppet
 -	Source Control
@@ -137,7 +139,16 @@ As part of the Agile Information Services team the role was to provide support t
 ###### DevOps Engineer 		A P Moller Maersk Group,		Contractor
 A P Mollers - Maersk is an integrated transport and logistics company with multiple brands and is a global leader in container shipping and ports
 ###### Overview
-
+The purpose of the role was to provide DevOps related technology services to the Maersk Group IT Services
+###### Business Delivery
+-	Automate processes to ensure the environments are consistent, scalable and fast deployment can be acheived
+-	Deliver document release notes, user guides, deployment plans
+-	Assist developers and stake holders to solve incidents related to architecture
+-	Work with various teams in gathering business requirements for application migration needs
+-	Liase with business managers to ensure that business requirements, scope and timelines are achievable
+-	Test, debug and troubleshoot platform application level problems
+-	Perform "root cause" analysis of incidents, and provide immediate workaround for critcal problems if possible
+-	Act as an escaltion point for support issues/questions from stake holders
 
 
 
