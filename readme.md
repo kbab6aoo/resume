@@ -268,10 +268,65 @@ The purpose of the role was to provide technical expertise and operational suppo
 	-	Confluence
 	-	WebEx
 
+###### WebSphere Infrastructure Engineer 		BNP Paribas Fortis,		Contractor
+BNP Paribas Fortis is an international bank based in Belgium which is a subsidiary of BNP Paribas
+###### Overview
+The purpose of the role was to support to BNP's, web Infrastructure
+###### Business Delivery:
+-	Manage the operation of Window Servers and the delivery of complex Web Application Stacks
+-	Perform "root cause" analysis of customer issues, provide immediate workaround for critical problems
+-	Act as an escalation point for support issues and questions form Stakeholders
 
+###### Technology Stack:
+-	Cloud Technologies
+	-	Amazon Web Service - AWS,
+-	Provision Virtual Machines and Network Configurations
+	-	Windows
+	-	WAN, LAN, VLAN, TCP/IP, HTTP(S), DNS, SSH, SSL
+-	Automate and Streamline Operations and Processes
+	-	InHouse - bespoke
+-	Provision and Configure Web Servers
+	-	IIS
+-	Database Servers
+	-	SQL
+-	Monitoring Servers and processes for failures and performance bottlenecks
+	-	WebSphere
+-	Scripting
+	-	VBScript, PowerShell
+-	Collaboration Tool
+	-	Skype
+	-	WebEx
 
+###### Hosting Engineer 		Relayware,		Contractor
+Relayware provides organistions with secure scalabel cloud service solutions through "SaaS" to their customers
+###### Overview
+Reliance JIO Infocomm Limited (RJIL) provides broadband services to customers using LTE as access technology throughout India.  RJIL oeprates as a subsidiary of Reliance Industries Limited based in India
+###### Business Delivery:
+-	Build multiple environments
+-	Support Relayware Web application software upgrade 
+-	Provide day-to-day website support including analysis, debugging, maintenance and performance tuning
+-	Configure IIS – Site setup, IP Bindings, URL redirects, HTTP response headers, SSL certificates
+-	Implement emergency changes with the necessary assistance from developers and other IT Teams
+-	Perform "root cause" analysis of customer issues, provide immediate workaround for critical problems
+-	Act as an escalation point for support issues and questions form Stakeholders
 
-
+###### Technology Stack:
+-	Cloud Technologies
+	-	Amazon Web Service - AWS,
+-	Provision Virtual Machines and Network Configurations
+	-	Windows
+	-	WAN, LAN, VLAN, TCP/IP, HTTP(S), DNS, SSH, SSL
+-	Provision and Configure Web Servers
+	-	IIS, Apache Tomcat, Coldfusion
+-	Database Servers
+	-	SQL
+-	Monitoring Servers and processes for failures and performance bottlenecks
+	-	PRTG Monitor
+-	Scripting
+	-	VBScript, PowerShell
+-	Collaboration Tool
+	-	Skype
+	-	WebEx
 
 
 
