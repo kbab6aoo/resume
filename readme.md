@@ -194,7 +194,7 @@ The purpose of the role was to provide DevOps related technology services to the
 	-	Google Analytics
 
 ###### DevOps Consultant 		Santander,		Contractor
-Santander UK plc is wholly by the Spanish Sanatander Group.  Santander UK is one of the UK's leading personal financial services companies and one of the largest providers of mortgages and savings in the UK
+Santander UK plc is wholly owned by the Spanish Santander Group.  Santander UK is one of the UK's leading personal financial services companies and one of the largest providers of mortgages and savings in the UK
 ###### Overview
 The purpose of the role was to provide consultancy expertise and accelerate automation with Anisble and Terraform
 ###### Business Delivery:
