@@ -1,5 +1,10 @@
 # Yomi Ogunyinka (BA Business Studies) 
+| EMAIL | WEBSITE | LINKEDIN |
+| :- | :- | :- |
+Yomi.O@JaghoConsultants.co.uk | https://jagho.info | https://www.linkedin.com/in/jaghoconsultants/ 
 ### DevOps Engineer / Cloud Engineer / Microsoft Windows Systems Administrator
+
+
 ##### Website: https://jagho.info 	Email: Yomi.O@JaghoConsultants.co.uk  LinkedIn: https://www.linkedin.com/in/jaghoconsultants/
 
 A results-orientated DevOps Engineer with several years of experience in the delivery of scalable "cloud" enterprise projects and high performance solutions that are focussed around "SaaS", "PaaS", and "IaaS", I am customer focused with a proven track record in meeting Service Level Agreements (SLA's) and Key Performance Indicators (KPI's)
@@ -132,6 +137,10 @@ As part of the Agile Information Services team the role was to provide support t
 	-	Slack
 	-	Confluence
 	-	JIRA
+
+###### DevOps Engineer 		A P Moller Maersk Group,		Contractor
+A P Mollers - Maersk is an integrated transport and logistics company with multiple brands and is a global leader in container shipping and ports
+###### Overview
 
 
 
