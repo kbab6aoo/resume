@@ -2,7 +2,7 @@
 | EMAIL | WEBSITE | LINKEDIN |
 | :-: | :-: | :-: |
 Yomi.O@JaghoConsultants.co.uk | https://jagho.info | https://www.linkedin.com/in/jaghoconsultants/ 
-### DevOps Engineer / Platform Engineer / Microsoft Windows Systems Administrator
+### DevOps Engineer / Platform Engineer /  Cloud Engineer / Microsoft Windows Systems Administrator
 I am passionate about technology and Cloud Services. I enjoy a hands-on approach to technology. My background has allowed me to build a strong technical skill-set allowing me to devise creative solutions for various clients. I have a proven ability to deliver to demanding time scales, as well as working closely with clients to realize their aspirations.
 
 A results-orientated DevOps Engineer with several years of experience in the delivery of scalable "cloud" enterprise projects and high performance solutions that are focused around "SaaS", "PaaS", and "IaaS", I am customer focused with a proven track record in meeting Service Level Agreements (SLA's) and Key Performance Indicators (KPI's)
