@@ -85,7 +85,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Experience of designing and building end-to-end infrastructure solutions to the cloud with Amazon Web Services (AWS)
 
 ## PROFESSIONAL EXPERIENCE
-###### DevOps Engineer			Cisco Systems,					Contractor
+###### DevOps Engineer,			Cisco Systems,					Contractor
 Video Cloud Services (VCS) customer operations function is responsible for ensuring the delivery of high quality services to customers and achieving high customer satisfaction
 ###### Overview
 The role was to work collaboratively with the software engineering team to deploy and operate Video Systems in the Cloud, and help automate and streamline operations and processes.
@@ -122,7 +122,7 @@ The role was to work collaboratively with the software engineering team to deplo
 	-	Confluence
 	-	WebEx
 
-###### DevOps Engineer 		University of Edinburgh,		Contractor
+###### DevOps Engineer, 		University of Edinburgh,		Contractor
 The University of Edinburgh Information Services Group is a fully integrated support service, offering physical and digital services across library, IT learning technology library, IT, learning technology student study and teaching room technologies
 ###### Overview
 As part of the Agile Information Services team the role was to provide support to enable the team around the platform, develop prototypes and proof of concepts specific to the University's products and services for their customers.
@@ -155,7 +155,7 @@ As part of the Agile Information Services team the role was to provide support t
 	-	Confluence
 	-	JIRA
 
-###### DevOps Engineer 		A P Moller Maersk Group,		Contractor
+###### DevOps Engineer, 		A P Moller Maersk Group,		Contractor
 A P Mollers - Maersk is an integrated transport and logistics company with multiple brands and is a global leader in container shipping and ports
 ###### Overview
 The purpose of the role was to provide DevOps related technology services to the Maersk Group IT Services
@@ -201,7 +201,7 @@ The purpose of the role was to provide DevOps related technology services to the
 -	Web Analytics
 	-	Google Analytics
 
-###### DevOps Consultant 		Santander,		Contractor
+###### DevOps Consultant, 		Santander,		Contractor
 Santander UK plc. is wholly owned by the Spanish Santander Group.  Santander UK is one of the UK's leading personal financial services companies and one of the largest providers of mortgages and savings in the UK
 ###### Overview
 The purpose of the role was to provide consultancy expertise and accelerate automation with Anisble and Terraform
@@ -234,7 +234,7 @@ The purpose of the role was to provide consultancy expertise and accelerate auto
 	-	JIRA
 	-	Confluence
 
-###### DevOps Consultant 		DYSON,		Contractor
+###### DevOps Consultant, 		DYSON,		Contractor
 Dyson designs and manufacture vacuum cleaners, hand dryers, blade-less fans, and heaters
 ###### Overview
 The purpose of the role was to provide technical expertise and operational support to Dysons Web, Digital and IoT Infrastructure
@@ -269,7 +269,7 @@ The purpose of the role was to provide technical expertise and operational suppo
 	-	Confluence
 	-	WebEx
 
-###### WebSphere Infrastructure Engineer 		BNP Paribas Fortis,		Contractor
+###### WebSphere Infrastructure Engineer, 		BNP Paribas Fortis,		Contractor
 BNP Paribas Fortis is an international bank based in Belgium which is a subsidiary of BNP Paribas
 ###### Overview
 The purpose of the role was to support to BNP's, web Infrastructure
@@ -298,7 +298,7 @@ The purpose of the role was to support to BNP's, web Infrastructure
 	-	Skype
 	-	WebEx
 
-###### Hosting Engineer 		Relayware,		Contractor
+###### Hosting Engineer, 		Relayware,		Contractor
 Relayware provides organizations with secure scalable cloud service solutions through "SaaS" to their customers
 ###### Overview
 Reliance JIO Infocomm Limited (RJIL) provides broadband services to customers using LTE as access technology throughout India.  RJIL operates as a subsidiary of Reliance Industries Limited based in India
