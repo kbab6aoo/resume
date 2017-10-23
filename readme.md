@@ -51,7 +51,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 		-	ColdFusion, JBoss, ASP.NET
 -	Content Management Systems
 	-	Drupal, WordPress
--	Containerisation
+-	Containerization
 	-	Docker - Docker Compose
 -	Development
 	-	Visual Studio
@@ -73,14 +73,14 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	Slack
 
 ### Core Competencies
--	Experience with continous integration, automated deployment and testing
+-	Experience with continuous integration, automated deployment and testing
 -	Knowledge of factors influencing performance and the ability to to tune systems to achieve the same
--	Experience with Agile Methodolgies and developing road maps, backlogs and measurable succes criteria
+-	Experience with Agile Methodologies and developing road maps, backlogs and measurable success criteria
 -	Experience supporting large scale technology migrations for company mergers, acquisitions and separations
 -	Experience of application deployment and data migration to the cloud
 -	Experience in provisioning secure Content Management Systems and managing complex cloud applications
 -	Experience of deploying quality web application releases to the cloud
--	Experience in implmenting new business solutions and passionate about delivering the best solutions to clients
+-	Experience in implementing new business solutions and passionate about delivering the best solutions to clients
 -	Experience of designing and building end-to-end infrastructure solutions to the cloud with Amazon Web Services (AWS)
 
 ## PROFESSIONAL EXPERIENCE
@@ -89,12 +89,12 @@ Video Cloud Services (VCS) customer operations function is responsible for ensur
 ###### Overview
 The role was to work collaboratively with the software engineering team to deploy and operate Video Systems in the Cloud, and help automate and streamline operations and processes.
 ###### Business Delivery:
--	Servce as Conflunence technical resource and SME
+-	Serve as Confluence technical resource and SME
 	-	Migrate Confluence wiki systems
 	-	Maintain and improve runbooks and operational processes
 	-	Establish and promote best practices for the usage of Confluence
 -	Resolve issues in clients test and production environments
--	Restrict Acess to resources
+-	Restrict Access to resources
 	-	User creation and administration
 
 ###### Technology Stack:
@@ -122,12 +122,12 @@ The role was to work collaboratively with the software engineering team to deplo
 	-	WebEx
 
 ###### DevOps Engineer 		University of Edinburgh,		Contractor
-The University of Edinburgh Information Services Group is a fully integrated support service, offering physical and digital services accross library, IT learning technology library, IT, learning technoly student study and teaching room technologies
+The University of Edinburgh Information Services Group is a fully integrated support service, offering physical and digital services across library, IT learning technology library, IT, learning technology student study and teaching room technologies
 ###### Overview
 As part of the Agile Information Services team the role was to provide support to enable the team around the platform, develop prototypes and proof of concepts specific to the University's products and services for their customers.
 ###### Business Delivery:
 -	Collaborate with the product owner to gather requirements, design, and solve complex problems
--	Participate in design meetings and analyse user needs to determine technical requirements
+-	Participate in design meetings and analyze user needs to determine technical requirements
 -	Evaluate, improve, and maintain information security
 	-	Firewalls, Routing Tables, Apply Security Patches and updates
 -	Provide DevOps Work
@@ -138,7 +138,7 @@ As part of the Agile Information Services team the role was to provide support t
 -	Provision virtual machines and network configuration
 	-	Centos 7, REDHAT, Ubuntu
 	-	TCP/IP, DNS, VLAN, SSH, SSL
--	Provision and Configure required software onto provsioned
+-	Provision and Configure required software onto provisioned
 	-	Web Servers - Apache Kafka
 	-	Database Servers - PostgreSQL
 -	Monitor Servers and processes for failures and performance bottlenecks
@@ -159,14 +159,14 @@ A P Mollers - Maersk is an integrated transport and logistics company with multi
 ###### Overview
 The purpose of the role was to provide DevOps related technology services to the Maersk Group IT Services
 ###### Business Delivery:
--	Automate processes to ensure the environments are consistent, scalable and fast deployment can be acheived
+-	Automate processes to ensure the environments are consistent, scalable and fast deployment can be achieved
 -	Deliver document release notes, user guides, deployment plans
 -	Assist developers and stake holders to solve incidents related to architecture
 -	Work with various teams in gathering business requirements for application migration needs
--	Liase with business managers to ensure that business requirements, scope and timelines are achievable
+-	Liaise with business managers to ensure that business requirements, scope and time-lines are achievable
 -	Test, debug and troubleshoot platform application level problems
--	Perform "root cause" analysis of incidents, and provide immediate workaround for critcal problems if possible
--	Act as an escaltion point for support issues/questions from stake holders
+-	Perform "root cause" analysis of incidents, and provide immediate workaround for critical problems if possible
+-	Act as an escalation point for support issues/questions from stake holders
 
 ###### Technology Stack:
 -	Cloud
@@ -177,16 +177,16 @@ The purpose of the role was to provide DevOps related technology services to the
 	-	Ansible
 -	Database Servers
 	-	Cassandra, Oracle
--	Containerisation
+-	Containerization
 	-	Docker
 -	Scripting
 	-	Bash, Python, YAML, JSON
--	Continous Deployment
+-	Continuous Deployment
 	-	Jenkins
 -	Source Control
 	-	GIT
 -	Collaboration
-	-	Conflunence
+	-	Confluence
 	-	JIRA
 	-	Slack
 	-	WebEx
@@ -201,14 +201,14 @@ The purpose of the role was to provide DevOps related technology services to the
 	-	Google Analytics
 
 ###### DevOps Consultant 		Santander,		Contractor
-Santander UK plc is wholly owned by the Spanish Santander Group.  Santander UK is one of the UK's leading personal financial services companies and one of the largest providers of mortgages and savings in the UK
+Santander UK plc. is wholly owned by the Spanish Santander Group.  Santander UK is one of the UK's leading personal financial services companies and one of the largest providers of mortgages and savings in the UK
 ###### Overview
 The purpose of the role was to provide consultancy expertise and accelerate automation with Anisble and Terraform
 ###### Business Delivery:
 -	Work with Project Managers, Solutions Architects, responsible for ensuring that technical deliverables are consistent with the original solution specified by the technology office
--	Support and work alongside development teams and DBA's to autoamte tasks
+-	Support and work alongside development teams and DBA's to automate tasks
 -	Work with various teams in gathering business requirements for application migration needs
--	Architect, deploy and build terrafrom scripts for version controlled infrastructure changes
+-	Architect, deploy and build terraform scripts for version controlled infrastructure changes
 -	Prepare application migration plans including migration risk, milestones, quality and business sign-off details
 -	Manage assigned risks and monitor potential impacts of the application migration plans
 -	Develop best practice, processes, and standards for effectively carrying out application upgrades and migration
@@ -234,12 +234,12 @@ The purpose of the role was to provide consultancy expertise and accelerate auto
 	-	Confluence
 
 ###### DevOps Consultant 		DYSON,		Contractor
-Dyson designs and manufacture vacuum cleaners, hand dryers, bladeless fans, and heaters
+Dyson designs and manufacture vacuum cleaners, hand dryers, blade-less fans, and heaters
 ###### Overview
 The purpose of the role was to provide technical expertise and operational support to Dysons Web, Digital and IoT Infrastructure
 ###### Business Delivery:
--	Build, support and mainatain multiple development and production environments hosted on internal and public cloud solutions for full software development life cycyle
--	Architect, deploy and mange terraform scripts for version controlled Infrastucture changes
+-	Build, support and maintain multiple development and production environments hosted on internal and public cloud solutions for full software development life cycle
+-	Architect, deploy and mange terraform scripts for version controlled Infrastructure changes
 -	Provide ad-hoc Infrastructure services for prototyping and other initiatives
 
 ###### Technology Stack:
@@ -298,9 +298,9 @@ The purpose of the role was to support to BNP's, web Infrastructure
 	-	WebEx
 
 ###### Hosting Engineer 		Relayware,		Contractor
-Relayware provides organisations with secure scalabe cloud service solutions through "SaaS" to their customers
+Relayware provides organizations with secure scalable cloud service solutions through "SaaS" to their customers
 ###### Overview
-Reliance JIO Infocomm Limited (RJIL) provides broadband services to customers using LTE as access technology throughout India.  RJIL oeprates as a subsidiary of Reliance Industries Limited based in India
+Reliance JIO Infocomm Limited (RJIL) provides broadband services to customers using LTE as access technology throughout India.  RJIL operates as a subsidiary of Reliance Industries Limited based in India
 ###### Business Delivery:
 -	Build multiple environments
 -	Support Relayware Web application software upgrade 
@@ -327,6 +327,3 @@ Reliance JIO Infocomm Limited (RJIL) provides broadband services to customers us
 -	Collaboration Tool
 	-	Skype
 	-	WebEx
-
-
-
