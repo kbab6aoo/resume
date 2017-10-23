@@ -60,6 +60,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Programming Languages
 	-	JAVA
 	-	.Net
+	-	C#
 -	Scripting
 	-	PowerShell, VBScript, JavaScript,HTML, Markdown, CSS, jQuery, JSON, PYTHON, YAML, BASH
 -	Deployment
