@@ -5,9 +5,9 @@ Yomi.O@JaghoConsultants.co.uk | https://jagho.info | https://www.linkedin.com/in
 ### DevOps Engineer / Cloud Engineer / Microsoft Windows Systems Administrator
 I am passionate about technology and Cloud Services. I enjoy a hands-on approach to technology. My background has allowed me to build a strong technical skill-set allowing me to devise creative solutions for various clients. I have a proven ability to deliver to demanding time scales, as well as working closely with clients to realize their aspirations.
 
-A results-orientated DevOps Engineer with several years of experience in the delivery of scalable "cloud" enterprise projects and high performance solutions that are focussed around "SaaS", "PaaS", and "IaaS", I am customer focused with a proven track record in meeting Service Level Agreements (SLA's) and Key Performance Indicators (KPI's)
+A results-orientated DevOps Engineer with several years of experience in the delivery of scalable "cloud" enterprise projects and high performance solutions that are focused around "SaaS", "PaaS", and "IaaS", I am customer focused with a proven track record in meeting Service Level Agreements (SLA's) and Key Performance Indicators (KPI's)
 
-I have spent the last 20 years working in IT with the last 5 years focussing on technologies I feel very passionate about including Cloud and Agile Delivery. Along the way, I have gained experience in many other areas, including virtualization and Open Source, networking and scalable architectures.
+I have spent the last 20 years working in IT with the last 5 years focusing on technologies I feel very passionate about including Cloud and Agile Delivery. Along the way, I have gained experience in many other areas, including Virtual and Open Source, networking and scalable architectures.
 
 ## KEY SKILLS
 | CLOUD | STACKS | WEB | CONFIGURATION  | OPERATING SYTEMS
@@ -32,9 +32,9 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 		-	Build Jobs, Deploy Jobs, Automate Jobs
 		-	Build Pipe lines, Deploy Pipe lines
 		-	Integrate Jenkins with GitHub
-	-	Continous Intergration
+	-	Continuous Integration
 		-	JetBrains, TeamCity, Maven
--	Vesion Control
+-	Version Control
 	-	BitBucket, Git, GitHub, SourceTree, SVN, Mercurial, Chocolatey
 -	Security
 	-	OpenSSL - Diffie-Helman, RSA, DH, DSA, X.509, UFW
@@ -61,7 +61,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	JAVA
 	-	.Net
 -	Scripting
-	-	PowerShell, VBScript, JavaScript,HTML, CSS, jQuery, JSON, PYTHON, YAML, BASH
+	-	PowerShell, VBScript, JavaScript,HTML, Markdown, CSS, jQuery, JSON, PYTHON, YAML, BASH
 -	Deployment
 	-	Octopus deploy, TFS, AWS CodeDeploy, Blue/Green Deploy
 -	Development Software
@@ -298,7 +298,7 @@ The purpose of the role was to support to BNP's, web Infrastructure
 	-	WebEx
 
 ###### Hosting Engineer 		Relayware,		Contractor
-Relayware provides organistions with secure scalabel cloud service solutions through "SaaS" to their customers
+Relayware provides organisations with secure scalabe cloud service solutions through "SaaS" to their customers
 ###### Overview
 Reliance JIO Infocomm Limited (RJIL) provides broadband services to customers using LTE as access technology throughout India.  RJIL oeprates as a subsidiary of Reliance Industries Limited based in India
 ###### Business Delivery:
