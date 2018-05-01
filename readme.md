@@ -53,13 +53,9 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Containerization & Orchestration
 	-	Docker, Kubernetes
 -	Development
-	-	Visual Studio
-	-	Eclipse
-	-	Maven
+	-	Visual Studio, Eclipse, Maven
 -	Programming Languages
-	-	JAVA
-	-	.Net
-	-	C#
+	-	JAVA, .Net, C#
 -	Scripting
 	-	PowerShell, VBScript, JavaScript,HTML, Markdown, CSS, jQuery, Nodejs, JSON, PYTHON, React, YAML, BASH
 -	Deployment
@@ -67,10 +63,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Development Software
 	-	Visual Studio, Eclipse
 -	Collaboration Tools
-	-	Confluence
-	-	JIRA
-	-	WebEx, Skype, Jabber
-	-	Slack
+	-	Confluence, JIRA, WebEx, Skype, Jabber, Slack
 ### Core Competencies
 -	Strong experience engineering, architecting, and supporting AWS solutions
 -	Experience in supporting highly customer-focused mission critical environments
