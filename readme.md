@@ -13,14 +13,13 @@ I have spent the last 20 years working in IT with the last 5 years focusing on t
 | CLOUD | STACKS | WEB | CONFIGURATION  | OPERATING SYTEMS
 |:-:|:-:|:-:|:-:|:-:|
 AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / CHEF / PUPPET / SALT | LINUX / MICROSOFT / OPEN SOURCE
-
 ### TECHNICAL SKILLS
--	Microsoft
-	-	Server 2003 - 2012, SharePoint, Exchange, Office 365, Excel, VBA
 -	Operating Systems
-	-	Ubuntu, Centos, RHEL, Linux, Asteriks, Debian, Fedora
+	-	Ubuntu, Centos, RHEL, Linux, Asteriks, Debian, Fedora, Windows Server 2003 - 2012
 -	Amazon Web Services (AWS)
 	-	EC2, ECS, S3, Auto Scaling, Elastic Load Balancing, Internet Access Management, Security Groups, Virtual Private Networking, Route 53
+-	Microsoft Applications
+	-	SharePoint, Exchange, Office 365, Excel, VBA
 -	Networking
 	-	TCP/IP, VLAN, LAN, WAN, DNS, BIND9, SSH, PUTTY, CYGWIN
 -	Configuration Management
@@ -51,8 +50,8 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 		-	ColdFusion, JBoss, ASP.NET
 -	Content Management Systems
 	-	Drupal, WordPress
--	Containerization
-	-	Docker - Docker Compose
+-	Containerization & Orchestration
+	-	Docker, Kubernetes
 -	Development
 	-	Visual Studio
 	-	Eclipse
@@ -62,7 +61,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	.Net
 	-	C#
 -	Scripting
-	-	PowerShell, VBScript, JavaScript,HTML, Markdown, CSS, jQuery, JSON, PYTHON, YAML, BASH
+	-	PowerShell, VBScript, JavaScript,HTML, Markdown, CSS, jQuery, Nodejs, JSON, PYTHON, React, YAML, BASH
 -	Deployment
 	-	Octopus deploy, TFS, AWS CodeDeploy, Blue/Green Deploy
 -	Development Software
@@ -72,24 +71,61 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 	-	JIRA
 	-	WebEx, Skype, Jabber
 	-	Slack
-
 ### Core Competencies
--	Experience with continuous integration, automated deployment and testing
--	Knowledge of factors influencing performance and the ability to to tune systems to achieve the same
--	Experience with Agile Methodologies and developing road maps, backlogs and measurable success criteria
--	Experience supporting large scale technology migrations for company mergers, acquisitions and separations
--	Experience of application deployment and data migration to the cloud
--	Experience in provisioning secure Content Management Systems and managing complex cloud applications
--	Experience of deploying quality web application releases to the cloud
--	Experience in implementing new business solutions and passionate about delivering the best solutions to clients
--	Experience of designing and building end-to-end infrastructure solutions to the cloud with Amazon Web Services (AWS)
-
+-	Strong experience engineering, architecting, and supporting AWS solutions
+-	Experience in supporting highly customer-focused mission critical environments
+-	Experience of implementing and supporting AWS based instances and services
+-	Maintaining scalable and auto-scaled environments using automation and configuration management tools
+-	Experience security hardening with IAM roles and policies
+-	Experience developing ACLs for network security groups
+-	Experience supporting Lead Technical Architects in designing full technology stacks for deployment in AWS
+-	Experience deploying WAF configurations for session routing and rules to mitigate attacks in AWS
+-	Experience deploying AWS as code using Terraform, Ansible, Puppet, Kubernetes and Cloud Formation scripts
+-	Experience in troubleshooting and resolving complex technical and non-technical issues in AWS
+-	Experience configuring monitoring and log aggregation
+-	Experience in application migration and implementing new business solutions into AWS
+-	Experience working with Developers to build CI pipelines using Jenkins
+-	Experience working with frontend web services
+-	Strong experience working in DevOps, agile and cross-functional environments (JIRA/KANBAN/CONFLUENCE)
+-	Ability to continuously learn, work independently, and make decisions with minimal supervision
 ## PROFESSIONAL EXPERIENCE
 ###### Cloud Platform / DevOps Engineer, Beyond
 The primary objectives where to secure Beyond's AWS environments and bring them into compliance with best practices for configuration management and perform daily activities to keep the environments operational
-###### Business Delivery
+###### Business Delivery:
 -	Audit - Analyse all current sytems and provide a plan for bringing them into compliance with best practices for patching, secure configuration, strong identity and access management, logging and alerting
 	-	IAM audit - review all AWS accounts and identify old account or accounts with excessive permissions
+-	Patch and Vulnerability Management
+	-	Going through the appropriate change management process bring all systems to current patch levels
+	-	Coordinate with AWS to get approval for vulnerability scans
+	-	Coordinate with InfoSec to test the security of all internet facing systems
+-	Access Control and Review
+	-	Review all access controls including firewall rulesets and provide feedback on any misconfigurations
+-	Log Analysis
+	-	Review the logging infrastructure, Perform coverage and completeness assessment
+	-	Perform daily reviews of security logs
+-	Work with third party suppliers
+	-	Work with Alert Logic to create a plan for implementing Alert Logic:
+		-	Logging, Vulnerability Scanners
+		-	File Integrity Checking and Intrusion Detection Systems into the PCI environment
+-	Provide support to development teams in setting up and provisioning environments
+-	Create a weekly state of the AWS environment report that identifies:
+	-	Issues, Incidents, outages
+-	Work on business continuity and disaster recovery plans for the AWS environments
+##### Technology Stack:
+-	Cloud Technologies, Containers and Clustering
+	-	AWS, GCP, Docker, AWS kop - Kubernetes
+-	Security
+	-	AWS-Vault, Hashcorp Vault, WAF, ACL, Virtual Firewalls - AWS Security Groups
+-	Provision virtual machines and network configuration
+	-	Ubuntu, WAN, LAN, VLAN, TCP/IP, HTTP(S), DNS, SSH, SSL
+-	Automate and streamline operations and processes
+	-	Ansible, Terraform, CloudFormation, CodeDeploy, Jenkins
+-	Web Servers, Database Servers, Content Delivery, and Content Management Systems
+	-	Nginx, WordPress, Drupal, CloudFront, Varnish
+-	Monitoring Servers and processes for failures and performance bottlenecks
+	-	Alert Logic, Cloud Defender, Cloud Health, AWS GuardDuty
+-	Scripting, Source Control, Collaboration and Messaging
+	-	GIT-FLOW, GITLAB, BitBucket, JIRA, Kanban, Confluence, Slack, Google Hangouts
 ###### DevOps Engineer,			Cisco Systems				
 Video Cloud Services (VCS) customer operations function is responsible for ensuring the delivery of high quality services to customers and achieving high customer satisfaction
 ###### Overview
