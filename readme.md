@@ -70,7 +70,7 @@ AWS /OPENSTACK | LEMP / LAMP / ELK | NGINX / APACHE / TOMCAT / IIS | ANSIBLE / C
 -	Experience of implementing and supporting AWS based instances and services
 -	Maintaining scalable and auto-scaled environments using automation and configuration management tools
 -	Experience security hardening with IAM roles and policies
--	Experience developing ACLs for network security groups
+-	Experience deploying ACLs for network security
 -	Experience supporting Lead Technical Architects in designing full technology stacks for deployment in AWS
 -	Experience deploying WAF configurations for session routing and rules to mitigate attacks in AWS
 -	Experience deploying AWS as code using Terraform, Ansible, Puppet, Kubernetes and Cloud Formation scripts
