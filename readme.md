@@ -1,7 +1,7 @@
 # Yomi Ogunyinka (BA Business Studies) 
 | EMAIL | WEBSITE | LINKEDIN |
 | :-: | :-: | :-: |
-Yomi.O@JaghoConsultants.co.uk | https://jagho.info | https://www.linkedin.com/in/jaghoconsultants/ 
+Yomi.O@JaghoConsultants.co.uk | http://jagho.info | https://www.linkedin.com/in/jaghoconsultants/ 
 ### AWS DevOps Engineer / SRE Engineer / Cloud Engineer / Platform Engineer
 I am passionate about technology and Cloud Services. I enjoy a hands-on approach to technology. My background has allowed me to build a strong technical skill-set allowing me to devise creative solutions for various clients. I have a proven ability to deliver to demanding time scales, as well as working closely with clients to realize their aspirations.
 
